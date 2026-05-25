@@ -1,5 +1,5 @@
 # API_com_Flask
-🚀 Desenvolvi minha primeira API REST com Python e Flask!
+🚀 Desenvolvi uma API REST com Python e Flask!
 
 Nesse projeto implementei um CRUD completo de tarefas utilizando:
 
