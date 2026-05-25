@@ -22,6 +22,7 @@ Além disso, utilizei o Postman para testar os endpoints e entender melhor o fun
 Esse projeto me ajudou bastante a praticar lógica, orientação a objetos e desenvolvimento backend.
 
 Tecnologias utilizadas:
+
 🔹 Python
 🔹 Flask
 🔹 Postman
