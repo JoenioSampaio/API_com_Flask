@@ -4,17 +4,25 @@
 Nesse projeto implementei um CRUD completo de tarefas utilizando:
 
 ✅ Python
+
 ✅ Flask
+
 ✅ API REST
+
 ✅ JSON
+
 ✅ Métodos HTTP (GET, POST, PUT, DELETE)
 
 Funcionalidades da API:
 
 📌 Criar tarefas
+
 📌 Listar tarefas
+
 📌 Buscar tarefa por ID
+
 📌 Atualizar tarefas
+
 📌 Deletar tarefas
 
 Além disso, utilizei o Postman para testar os endpoints e entender melhor o funcionamento de requisições HTTP e respostas JSON.
